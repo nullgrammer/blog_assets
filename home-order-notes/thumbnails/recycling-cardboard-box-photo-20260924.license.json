@@ -1,0 +1,16 @@
+{
+  "replacement_needed": true,
+  "reason": "기존 JPG는 사진이 아닌 평면 도식으로 시각 확인됨. 본문 실사 이미지 규칙을 충족하지 않음.",
+  "old_url": "https://raw.githubusercontent.com/nullgrammer/blog_assets/main/home-order-notes/thumbnails/small-recycling-corner-routine-v2.jpg",
+  "new_url": "https://raw.githubusercontent.com/nullgrammer/blog_assets/main/home-order-notes/thumbnails/recycling-cardboard-box-photo-20260924.jpg",
+  "repo_path": "home-order-notes/thumbnails/recycling-cardboard-box-photo-20260924.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Cardboard_box.jpg",
+  "author": "MrBeastRapper",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "modifications": "center crop and resize to 800x450; derivative CC BY-SA 4.0",
+  "local_sha256": "10e104506a54d4ff893b6ad46b913c92fd5f53dff80c1d3d39ad16a861274ba7",
+  "local_visual_passed": true,
+  "visual_notes": "실내 골판지 상자의 실제 사진. 파손/회색블록/개인정보 없음. 빈 상자/정리 효과의 증거라고 주장하지 않음.",
+  "rejected_candidate": "Pexels 6169028 source/license pages blocked by challenge; not used."
+}
